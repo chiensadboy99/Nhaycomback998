@@ -1,0 +1,3524 @@
+{
+  "b52": {
+    "predictions": [
+      {
+        "phien": "1669020",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 5 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Xỉu)",
+          "Cầu Bẻ Cầu (5 phiên Xỉu)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu 5-5 (1 bộ năm)",
+          "Cầu Đôi Bệt (2 cặp)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Momentum Giảm (7.4 vs 11.2)",
+          "Gần Hỗ Trợ (6 → 6)",
+          "Sóng Thu Hẹp (5-2-1-1 → Theo Xỉu)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Markov Chain (Xỉu → Xỉu: 76%)",
+          "MA Đảo Chiều (Drift: -2.2 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T04:49:38.417Z",
+        "verified": false,
+        "actual": null,
+        "isCorrect": null
+      },
+      {
+        "phien": "1669019",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Bẻ Cầu (4 phiên Xỉu)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Cầu Đôi Bệt (3 cặp)",
+          "Gần Hỗ Trợ (8 → 6)",
+          "Sóng Thu Hẹp (4-2-1-1 → Theo Xỉu)",
+          "Markov Chain (Xỉu → Xỉu: 75%)"
+        ],
+        "timestamp": "2025-12-11T04:48:08.359Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669018",
+        "prediction": "Xỉu",
+        "confidence": 74,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu 1-2-3",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Gần Hỗ Trợ (8 → 6)",
+          "Sóng Thu Hẹp (3-2-1-1 → Theo Xỉu)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Markov Chain (Xỉu → Xỉu: 74%)"
+        ],
+        "timestamp": "2025-12-11T04:47:08.377Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669017",
+        "prediction": "Tài",
+        "confidence": 78,
+        "patterns": [
+          "Cầu 2-2 (2 cặp)",
+          "Cầu 2-1-2",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Cầu Đôi Đảo (2 cặp)",
+          "Biểu Đồ Đường (3 xúc xắc giống 3)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Sóng Thu Hẹp (2-2-1-1 → Theo Xỉu)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Markov Chain (Xỉu → Xỉu: 73%)"
+        ],
+        "timestamp": "2025-12-11T04:46:08.860Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1669016",
+        "prediction": "Xỉu",
+        "confidence": 74,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Biểu Đồ Đường (3 dây cùng xuống → Theo Tài)",
+          "Gần Hỗ Trợ (6 → 6)",
+          "Markov Chain (Xỉu → Xỉu: 72%)"
+        ],
+        "timestamp": "2025-12-11T04:45:56.547Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669016",
+        "prediction": "Xỉu",
+        "confidence": 75,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Biểu Đồ Đường (3 dây cùng xuống → Theo Tài)",
+          "Gần Hỗ Trợ (6 → 6)",
+          "Markov Chain (Xỉu → Xỉu: 72%)"
+        ],
+        "timestamp": "2025-12-11T04:45:08.438Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669015",
+        "prediction": "Xỉu",
+        "confidence": 81,
+        "patterns": [
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Markov Chain (Tài → Tài: 71%)",
+          "Vùng Ổn Định (StdDev:1.8, Last:12)"
+        ],
+        "timestamp": "2025-12-11T04:43:59.361Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669014",
+        "prediction": "Tài",
+        "confidence": 66,
+        "patterns": [
+          "🔄 Auto-Reversal (Xỉu → Tài)",
+          "Cầu Đảo 1-1 (4 phiên)",
+          "Biểu Đồ Đường (2 dây ngang → Bẻ Xỉu)",
+          "Sóng Mở Rộng (1-1-1-3 → Bẻ Xỉu)",
+          "Markov Chain (Tài → Tài: 71%)",
+          "Vùng Ổn Định (StdDev:1.8, Last:13)"
+        ],
+        "timestamp": "2025-12-11T04:42:59.316Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669013",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Markov Chain (Xỉu → Xỉu: 75%)"
+        ],
+        "timestamp": "2025-12-11T04:41:59.295Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1669012",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu 1-2-2-1",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Markov Chain (Tài → Tài: 76%)"
+        ],
+        "timestamp": "2025-12-11T04:40:59.238Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1669011",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu 1-2-3",
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Xu Hướng Cực (2T-8X trong 10 phiên)",
+          "Markov Chain (Xỉu → Xỉu: 78%)"
+        ],
+        "timestamp": "2025-12-11T04:39:59.188Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1669010",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Cầu 2-1-2",
+          "Cầu 2-1-1-2",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Cầu Đôi Đảo (4 cặp)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Gần Hỗ Trợ (8 → 6)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Markov Chain (Xỉu → Xỉu: 74%)"
+        ],
+        "timestamp": "2025-12-11T04:38:59.672Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669009",
+        "prediction": "Xỉu",
+        "confidence": 76,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Cầu 3-2-1",
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Markov Chain (Xỉu → Xỉu: 73%)"
+        ],
+        "timestamp": "2025-12-11T04:37:29.644Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669008",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Cầu Đôi Đảo (3 cặp)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Markov Chain (Tài → Tài: 77%)"
+        ],
+        "timestamp": "2025-12-11T04:36:29.276Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1669007",
+        "prediction": "Tài",
+        "confidence": 84,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Đảo Xu Hướng (1T-4X → 4T-1X)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Momentum Giảm (9.6 vs 12.2)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Markov Chain (Tài → Tài: 73%)"
+        ],
+        "timestamp": "2025-12-11T04:35:28.982Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669006",
+        "prediction": "Tài",
+        "confidence": 59,
+        "patterns": [
+          "Cầu Bệt 5 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Xỉu)",
+          "Cầu Bẻ Cầu (5 phiên Xỉu)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu 5-5 (3 bộ năm)",
+          "Cầu Đôi Bệt (2 cặp)",
+          "Đảo Xu Hướng (0T-5X → 5T-0X)",
+          "Biểu Đồ Đường (2 dây xuống → Bẻ Xỉu)",
+          "Biến động ngắn hạn mạnh",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Momentum Giảm (9.0 vs 12.4)",
+          "Gần Hỗ Trợ (7 → 6)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Markov Chain (Xỉu → Xỉu: 73%)",
+          "EMA Crossover (EMA5:9.1 vs MA10:10.7)"
+        ],
+        "timestamp": "2025-12-11T04:34:28.944Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669005",
+        "prediction": "Xỉu",
+        "confidence": 84,
+        "patterns": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Bẻ Cầu (4 phiên Xỉu)",
+          "Cầu 4-4 (2 bộ bốn)",
+          "Cầu Đôi Bệt (4 cặp)",
+          "Đảo Xu Hướng (1T-4X → 4T-1X)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Biến động ngắn hạn mạnh",
+          "Markov Chain (Xỉu → Xỉu: 71%)"
+        ],
+        "timestamp": "2025-12-11T04:33:28.876Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669004",
+        "prediction": "Xỉu",
+        "confidence": 79,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Biểu Đồ Đường (2 dây ngang → Bẻ Xỉu)",
+          "Biến động ngắn hạn mạnh",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Markov Chain (Xỉu → Xỉu: 70%)"
+        ],
+        "timestamp": "2025-12-11T04:32:28.830Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669003",
+        "prediction": "Xỉu",
+        "confidence": 84,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Tài)",
+          "Cầu Đôi Đảo (3 cặp)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Momentum Tăng (11.6 vs 9.4)",
+          "Markov Chain (Xỉu → Xỉu: 68%)",
+          "EMA Crossover (EMA5:12.4 vs MA10:10.5)"
+        ],
+        "timestamp": "2025-12-11T04:31:29.294Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669002",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Đảo Xu Hướng (4T-1X → 1T-4X)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Phân bố lệch (T:62% - X:38%)",
+          "Momentum Tăng (12.2 vs 8.8)",
+          "Markov Chain (Xỉu → Xỉu: 67%)",
+          "MA Đảo Chiều (Drift: 2.0 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T04:29:58.753Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669001",
+        "prediction": "Xỉu",
+        "confidence": 73,
+        "patterns": [
+          "Cầu Bệt 5 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Tài)",
+          "Cầu Bẻ Cầu (5 phiên Tài)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu 5-5 (2 bộ năm)",
+          "Cầu Đôi Bệt (2 cặp)",
+          "Đảo Xu Hướng (5T-0X → 0T-5X)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "Biến động ngắn hạn mạnh",
+          "Momentum Tăng (12.4 vs 7.8)",
+          "Sóng Thu Hẹp (5-5-1-1 → Theo Tài)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)",
+          "Markov Chain (Tài → Tài: 81%)",
+          "MA Đảo Chiều (Drift: 2.1 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T04:28:59.007Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1669000",
+        "prediction": "Tài",
+        "confidence": 84,
+        "patterns": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Bẻ Cầu (4 phiên Tài)",
+          "Cầu 4-4 (2 bộ bốn)",
+          "Cầu Đôi Bệt (4 cặp)",
+          "Đảo Xu Hướng (4T-1X → 1T-4X)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "Biến động ngắn hạn mạnh",
+          "Momentum Tăng (11.6 vs 8.6)",
+          "Markov Chain (Tài → Tài: 81%)"
+        ],
+        "timestamp": "2025-12-11T04:27:59.222Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668999",
+        "prediction": "Xỉu",
+        "confidence": 71,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "Biến động ngắn hạn mạnh",
+          "Momentum Tăng (11.0 vs 8.6)",
+          "Gần Kháng Cự (16 → 16)",
+          "Markov Chain (Tài → Tài: 81%)"
+        ],
+        "timestamp": "2025-12-11T04:26:58.603Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668998",
+        "prediction": "Xỉu",
+        "confidence": 62,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Cầu Đôi Đảo (3 cặp)",
+          "Biểu Đồ Đường (2 dây ngang → Bẻ Tài)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "Tổng TB thấp (9.3)",
+          "Biến động ngắn hạn mạnh",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)",
+          "Markov Chain (Tài → Tài: 81%)",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)"
+        ],
+        "timestamp": "2025-12-11T04:25:58.548Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668997",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Xu Hướng Cực (2T-8X trong 10 phiên)",
+          "Biểu Đồ Đường (3 dây cùng lên → Theo Xỉu)",
+          "Phân bố lệch (T:62% - X:38%)",
+          "Tổng TB thấp (9.5)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Markov Chain (Tài → Tài: 80%)",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)"
+        ],
+        "timestamp": "2025-12-11T04:24:58.512Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668996",
+        "prediction": "Tài",
+        "confidence": 80,
+        "patterns": [
+          "Cầu Bệt 5 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Xỉu)",
+          "Cầu Bẻ Cầu (5 phiên Xỉu)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu 5-5 (1 bộ năm)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Cầu Đôi Bệt (2 cặp)",
+          "Xu Hướng Cực (1T-9X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Phân bố lệch (T:62% - X:38%)",
+          "Fibonacci (0T-6X tại vị trí Fib)",
+          "Gần Hỗ Trợ (7 → 6)",
+          "Fibonacci Cực (7/7 → Bẻ Tài)",
+          "Markov Chain (Xỉu → Xỉu: 67%)",
+          "MA Đảo Chiều (Drift: -2.5 → Bẻ Tài)",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)"
+        ],
+        "timestamp": "2025-12-11T04:23:58.477Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668995",
+        "prediction": "Xỉu",
+        "confidence": 82,
+        "patterns": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Bẻ Cầu (4 phiên Xỉu)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu Đôi Bệt (2 cặp)",
+          "Xu Hướng Cực (2T-8X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Markov Chain (Xỉu → Xỉu: 65%)"
+        ],
+        "timestamp": "2025-12-11T04:22:58.407Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668994",
+        "prediction": "Xỉu",
+        "confidence": 66,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Biểu Đồ Đường (2 dây ngang → Bẻ Xỉu)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Gần Hỗ Trợ (8 → 6)",
+          "Fibonacci Cực (6/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T04:21:28.333Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668993",
+        "prediction": "Xỉu",
+        "confidence": 77,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Biểu Đồ Đường (2 dây lên → Bẻ Xỉu)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-11T04:20:28.309Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668992",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (2 dây xuống → Bẻ Tài)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "Momentum Giảm (8.4 vs 11.2)",
+          "Gần Hỗ Trợ (6 → 6)",
+          "EMA Crossover (EMA5:7.8 vs MA10:9.8)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-11T04:19:28.266Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668991",
+        "prediction": "Xỉu",
+        "confidence": 82,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Đảo Xu Hướng (1T-4X → 4T-1X)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "Momentum Giảm (9.0 vs 12.0)",
+          "Markov Chain (Tài → Tài: 81%)",
+          "EMA Crossover (EMA5:8.9 vs MA10:10.5)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-11T04:18:28.199Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668990",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Bẻ Cầu (4 phiên Xỉu)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu Đôi Bệt (3 cặp)",
+          "Đảo Xu Hướng (1T-4X → 4T-1X)",
+          "Biểu Đồ Đường (3 xúc xắc giống 3)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Phân bố lệch (T:62% - X:38%)",
+          "Biến động ngắn hạn mạnh",
+          "Momentum Giảm (9.4 vs 12.2)",
+          "Đỉnh Sóng (4 > avg 2.3 → Bẻ)",
+          "Markov Chain (Xỉu → Xỉu: 67%)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-11T04:17:28.704Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668989",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu 1-2-3",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Phân bố lệch (T:62% - X:38%)",
+          "Biến động ngắn hạn mạnh",
+          "Markov Chain (Xỉu → Xỉu: 67%)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-11T04:16:28.100Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668988",
+        "prediction": "Tài",
+        "confidence": 69,
+        "patterns": [
+          "Cầu 2-2 (2 cặp)",
+          "Cầu 2-1-2",
+          "Cầu Đôi Đảo (2 cặp)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "Cực Điểm Cao (4 phiên >= 14)",
+          "Biến động ngắn hạn mạnh",
+          "Momentum Giảm (9.6 vs 13.8)",
+          "Gần Hỗ Trợ (6 → 6)",
+          "Markov Chain (Xỉu → Xỉu: 65%)",
+          "EMA Crossover (EMA5:9.1 vs MA10:11.7)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-11T04:15:28.548Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668988",
+        "prediction": "Tài",
+        "confidence": 69,
+        "patterns": [
+          "Cầu 2-2 (2 cặp)",
+          "Cầu 2-1-2",
+          "Cầu Đôi Đảo (2 cặp)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Phân bố lệch (T:64% - X:36%)",
+          "Cực Điểm Cao (4 phiên >= 14)",
+          "Biến động ngắn hạn mạnh",
+          "Momentum Giảm (9.6 vs 13.8)",
+          "Gần Hỗ Trợ (6 → 6)",
+          "Markov Chain (Xỉu → Xỉu: 65%)",
+          "EMA Crossover (EMA5:9.1 vs MA10:11.7)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-11T04:15:10.460Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668987",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Cầu Nhịp Nghiêng 7 (5 Tài)",
+          "Xu Hướng Cực (8T-2X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Phân bố lệch (T:66% - X:34%)",
+          "Cực Điểm Cao (4 phiên >= 14)",
+          "Momentum Giảm (11.2 vs 13.2)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)",
+          "Markov Chain (Xỉu → Xỉu: 63%)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-11T04:14:03.089Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668965",
+        "prediction": "Xỉu",
+        "confidence": 77,
+        "patterns": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Bẻ Cầu (4 phiên Tài)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu Đôi Bệt (2 cặp)",
+          "Xu Hướng Cực (8T-2X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Tổng TB cao (11.8)",
+          "Fibonacci (5T-1X tại vị trí Fib)",
+          "Sóng Thu Hẹp (4-1-1-1 → Theo Tài)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T03:50:38.851Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668964",
+        "prediction": "Tài",
+        "confidence": 65,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Xu Hướng Cực (8T-2X trong 10 phiên)",
+          "Tổng TB cao (11.8)",
+          "Fibonacci (6T-0X tại vị trí Fib)",
+          "Sóng Thu Hẹp (3-1-1-1 → Theo Tài)",
+          "Fibonacci Cực (6/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T03:49:38.945Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668963",
+        "prediction": "Xỉu",
+        "confidence": 80,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Tài)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Xu Hướng Cực (8T-2X trong 10 phiên)",
+          "Tổng TB cao (11.9)",
+          "Momentum Giảm (10.2 vs 12.8)",
+          "Sóng Thu Hẹp (2-1-1-1 → Theo Tài)",
+          "EMA Crossover (EMA5:9.9 vs MA10:11.5)"
+        ],
+        "timestamp": "2025-12-11T03:48:38.756Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668962",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Đảo 1-1 (5 phiên)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 7 (5 Tài)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Cầu Ziczac (3 lần)",
+          "Xu Hướng Cực (8T-2X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Tổng TB cao (11.6)",
+          "Fibonacci (5T-1X tại vị trí Fib)",
+          "Momentum Giảm (10.0 vs 12.8)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T03:47:39.220Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668961",
+        "prediction": "Tài",
+        "confidence": 80,
+        "patterns": [
+          "Cầu Đảo 1-1 (4 phiên)",
+          "Cầu Nhịp Nghiêng 7 (5 Tài)",
+          "Xu Hướng Cực (8T-2X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Tổng TB cao (11.6)",
+          "Biến động ngắn hạn mạnh",
+          "Momentum Giảm (10.2 vs 13.0)",
+          "Gần Hỗ Trợ (6 → 6)",
+          "Sóng Mở Rộng (1-1-1-9 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T03:46:38.664Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668960",
+        "prediction": "Xỉu",
+        "confidence": 50,
+        "patterns": [
+          "🔄 Auto-Reversal (Tài → Xỉu)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Xu Hướng Cực (9T-1X trong 10 phiên)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Tổng TB cao (12.3)",
+          "Áp Lực Tổng CAO (Avg:12.3 vs Mean:10.5)"
+        ],
+        "timestamp": "2025-12-11T03:45:09.085Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668959",
+        "prediction": "Xỉu",
+        "confidence": 77,
+        "patterns": [
+          "🔄 Auto-Reversal (Tài → Xỉu)",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Xu Hướng Cực (9T-1X trong 10 phiên)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Tổng TB cao (11.9)",
+          "Fibonacci (5T-1X tại vị trí Fib)",
+          "Gần Hỗ Trợ (7 → 5)",
+          "Fibonacci Cực (6/7 → Bẻ Xỉu)",
+          "Đột Biến Biến Động (Spike:5 vs Avg:1.6)"
+        ],
+        "timestamp": "2025-12-11T03:44:08.564Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668958",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "🔄 Auto-Reversal (Xỉu → Tài)",
+          "Cầu Bệt 10 phiên",
+          "Cầu 3-3 (3 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Tài)",
+          "Cầu Bẻ Cầu (10 phiên Tài)",
+          "Cầu Chu Kỳ 2",
+          "Cầu 4-4 (2 bộ bốn)",
+          "Cầu 5-5 (2 bộ năm)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Cầu Đôi Bệt (5 cặp)",
+          "Cầu Rồng 10 phiên (Bẻ mạnh)",
+          "Xu Hướng Cực (10T-0X trong 10 phiên)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Cầu Liên Tục 10 (Streak dài → Bẻ mạnh)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Tổng TB cao (12.1)",
+          "Fibonacci (6T-0X tại vị trí Fib)",
+          "Đỉnh Sóng (10 > avg 4.0 → Bẻ)",
+          "Fibonacci Cực (7/7 → Bẻ Xỉu)",
+          "Áp Lực Tổng CAO (Avg:12.1 vs Mean:10.5)"
+        ],
+        "timestamp": "2025-12-11T03:43:08.500Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668957",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 9 phiên",
+          "Cầu 3-3 (3 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Tài)",
+          "Cầu Bẻ Cầu (9 phiên Tài)",
+          "Cầu Chu Kỳ 2",
+          "Cầu 4-4 (2 bộ bốn)",
+          "Cầu 5-5 (1 bộ năm)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Cầu Đôi Bệt (4 cặp)",
+          "Cầu Rồng 9 phiên (Bẻ mạnh)",
+          "Xu Hướng Cực (9T-1X trong 10 phiên)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Cầu Liên Tục 9 (Streak dài → Bẻ mạnh)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Tổng TB cao (11.8)",
+          "Fibonacci (5T-1X tại vị trí Fib)",
+          "Đỉnh Sóng (9 > avg 4.0 → Bẻ)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T03:42:08.980Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668956",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 8 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Tài)",
+          "Cầu Bẻ Cầu (8 phiên Tài)",
+          "Cầu Chu Kỳ 2",
+          "Cầu 4-4 (2 bộ bốn)",
+          "Cầu 5-5 (1 bộ năm)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Cầu Đôi Bệt (4 cặp)",
+          "Cầu Rồng 8 phiên (Bẻ mạnh)",
+          "Xu Hướng Cực (9T-1X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Cầu Liên Tục 8 (Streak dài → Bẻ mạnh)",
+          "Fibonacci (5T-1X tại vị trí Fib)",
+          "Đỉnh Sóng (8 > avg 3.7 → Bẻ)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T03:41:08.924Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668955",
+        "prediction": "Xỉu",
+        "confidence": 82,
+        "patterns": [
+          "Cầu Bệt 7 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Tài)",
+          "Cầu Bẻ Cầu (7 phiên Tài)",
+          "Cầu Chu Kỳ 2",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu 5-5 (1 bộ năm)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Cầu Đôi Bệt (3 cặp)",
+          "Cầu Rồng 7 phiên (Bẻ mạnh)",
+          "Xu Hướng Cực (9T-1X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Cầu Liên Tục 7 (Streak dài → Bẻ mạnh)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Đỉnh Sóng (7 > avg 3.3 → Bẻ)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T03:40:13.393Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668937",
+        "prediction": "Tài",
+        "confidence": 79,
+        "patterns": [
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T03:20:37.705Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668936",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Đảo 1-1 (4 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Sóng Mở Rộng (1-1-1-2 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T03:19:37.562Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668935",
+        "prediction": "Xỉu",
+        "confidence": 66,
+        "patterns": [
+          "Biểu Đồ Đường (2 dây lên → Bẻ Xỉu)",
+          "Sóng Mở Rộng (1-1-2-3 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T03:18:37.498Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668934",
+        "prediction": "Xỉu",
+        "confidence": 75,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Cầu 3-2-1",
+          "Cầu Nhảy Cóc Đảo",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Biến động ngắn hạn mạnh"
+        ],
+        "timestamp": "2025-12-11T03:17:37.449Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668933",
+        "prediction": "Xỉu",
+        "confidence": 65,
+        "patterns": [
+          "🔄 Auto-Reversal (Tài → Xỉu)",
+          "Cầu 2-2 (2 cặp)",
+          "Cầu Đôi Đảo (2 cặp)"
+        ],
+        "timestamp": "2025-12-11T03:16:37.885Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668932",
+        "prediction": "Xỉu",
+        "confidence": 68,
+        "patterns": [
+          "Cầu Nhảy Cóc Đảo",
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Cầu Chu Kỳ 4",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Momentum Tăng (11.0 vs 8.8)",
+          "EMA Crossover (EMA5:11.6 vs MA10:9.9)"
+        ],
+        "timestamp": "2025-12-11T03:15:37.928Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668931",
+        "prediction": "Xỉu",
+        "confidence": 67,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Cầu Chu Kỳ 4",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Xu Hướng Cực (2T-8X trong 10 phiên)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T03:14:37.298Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668930",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhảy Cóc Đảo",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Chu Kỳ 4",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Xu Hướng Cực (2T-8X trong 10 phiên)",
+          "Biểu Đồ Đường (2 dây ngang → Bẻ Xỉu)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T03:13:07.751Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668929",
+        "prediction": "Xỉu",
+        "confidence": 77,
+        "patterns": [
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Momentum Giảm (9.2 vs 11.4)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "EMA Crossover (EMA5:8.3 vs MA10:10.3)"
+        ],
+        "timestamp": "2025-12-11T03:12:12.800Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668865",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Tài)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Markov Chain (Xỉu → Tài: 36%)"
+        ],
+        "timestamp": "2025-12-11T02:04:10.322Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668864",
+        "prediction": "Tài",
+        "confidence": 71,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Tổng TB cao (11.7)",
+          "Biến động ngắn hạn mạnh",
+          "Fibonacci (6T-0X tại vị trí Fib)",
+          "Fibonacci Cực (6/7 → Bẻ Xỉu)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-11T02:02:40.216Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668863",
+        "prediction": "Tài",
+        "confidence": 69,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Chu Kỳ 3",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Dây Gãy (2 dây thẳng 6-6 + 1 xuống → Tài)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T02:01:40.183Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668862",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Tài)",
+          "Cầu Chu Kỳ 3",
+          "Biểu Đồ Đường (3 xúc xắc giống 6)",
+          "Tổng TB cao (11.5)",
+          "Gần Kháng Cự (18 → 18)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)",
+          "Biến Động Cao (Avg:4.2, Max:11 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T02:00:40.130Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668861",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Gần Hỗ Trợ (7 → 6)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T01:59:40.094Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668860",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Momentum Tăng (11.8 vs 9.6)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T01:58:40.074Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668859",
+        "prediction": "Xỉu",
+        "confidence": 81,
+        "patterns": [
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Biến Động Cao (Avg:4.9, Max:9 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:57:39.983Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668858",
+        "prediction": "Xỉu",
+        "confidence": 75,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Biến Động Cao (Avg:5.6, Max:9 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:56:39.949Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668857",
+        "prediction": "Xỉu",
+        "confidence": 77,
+        "patterns": [
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Sóng Thu Hẹp (2-1-1-1 → Theo Tài)",
+          "Biến Động Cao (Avg:5.6, Max:9 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:55:09.880Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668856",
+        "prediction": "Xỉu",
+        "confidence": 83,
+        "patterns": [
+          "Cầu Đảo 1-1 (10 phiên)",
+          "Cầu Nhảy Cóc",
+          "Cầu Chu Kỳ 2",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Cầu Ziczac (8 lần)",
+          "Biểu Đồ Đường (2 dây lên → Bẻ Xỉu)",
+          "Biến Động Cao (Avg:5.9, Max:9 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:54:09.817Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668855",
+        "prediction": "Tài",
+        "confidence": 80,
+        "patterns": [
+          "Cầu Đảo 1-1 (9 phiên)",
+          "Cầu Nhảy Cóc",
+          "Cầu Chu Kỳ 2",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Cầu Ziczac (7 lần)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Momentum Giảm (9.6 vs 12.0)",
+          "Gần Hỗ Trợ (8 → 6)",
+          "Biến Động Cao (Avg:5.4, Max:9 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:53:09.757Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668854",
+        "prediction": "Tài",
+        "confidence": 73,
+        "patterns": [
+          "Cầu Đảo 1-1 (8 phiên)",
+          "Cầu Nhảy Cóc",
+          "Cầu Chu Kỳ 2",
+          "Cầu Ziczac (6 lần)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "EMA Crossover (EMA5:12.5 vs MA10:10.9)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)",
+          "Biến Động Cao (Avg:4.9, Max:9 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:52:10.226Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668853",
+        "prediction": "Tài",
+        "confidence": 65,
+        "patterns": [
+          "Cầu Đảo 1-1 (7 phiên)",
+          "Cầu Nhảy Cóc",
+          "Cầu Chu Kỳ 2",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Cầu Ziczac (5 lần)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Gần Hỗ Trợ (6 → 6)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)",
+          "Biến Động Cao (Avg:4.3, Max:9 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:51:09.678Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668852",
+        "prediction": "Xỉu",
+        "confidence": 83,
+        "patterns": [
+          "Cầu Đảo 1-1 (6 phiên)",
+          "Cầu Nhảy Cóc",
+          "Cầu Chu Kỳ 2",
+          "Cầu Ziczac (4 lần)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Momentum Tăng (12.4 vs 9.6)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)",
+          "EMA Crossover (EMA5:12.8 vs MA10:11.0)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)",
+          "Biến Động Cao (Avg:4.2, Max:9 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:50:09.613Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668851",
+        "prediction": "Xỉu",
+        "confidence": 79,
+        "patterns": [
+          "Cầu Đảo 1-1 (5 phiên)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Cầu Ziczac (3 lần)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Gần Hỗ Trợ (8 → 7)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-11T01:49:09.554Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668850",
+        "prediction": "Xỉu",
+        "confidence": 84,
+        "patterns": [
+          "Cầu Đảo 1-1 (4 phiên)",
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Gần Kháng Cự (17 → 17)",
+          "Sóng Mở Rộng (1-1-1-4 → Bẻ Xỉu)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-11T01:48:10.072Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668849",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Đảo Xu Hướng (1T-4X → 4T-1X)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Sóng Mở Rộng (1-1-4-4 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T01:46:39.608Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668848",
+        "prediction": "Xỉu",
+        "confidence": 76,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Đảo Xu Hướng (1T-4X → 4T-1X)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Momentum Giảm (9.8 vs 12.2)",
+          "Gần Kháng Cự (14 → 16)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "EMA Crossover (EMA5:9.4 vs MA10:11.0)"
+        ],
+        "timestamp": "2025-12-11T01:45:39.419Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668847",
+        "prediction": "Tài",
+        "confidence": 79,
+        "patterns": [
+          "🔄 Auto-Reversal (Xỉu → Tài)",
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Bẻ Cầu (4 phiên Xỉu)",
+          "Cầu 4-4 (2 bộ bốn)",
+          "Cầu Đôi Bệt (4 cặp)",
+          "Đảo Xu Hướng (1T-4X → 4T-1X)",
+          "Biến động ngắn hạn mạnh",
+          "Momentum Giảm (9.6 vs 12.0)"
+        ],
+        "timestamp": "2025-12-11T01:44:39.418Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668846",
+        "prediction": "Tài",
+        "confidence": 74,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Biến động ngắn hạn mạnh",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T01:43:52.615Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668845",
+        "prediction": "Tài",
+        "confidence": 75,
+        "patterns": [
+          "Cầu Đôi Đảo (3 cặp)",
+          "Biểu Đồ Đường (2 dây lên → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T01:42:53.154Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668844",
+        "prediction": "Tài",
+        "confidence": 65,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Fibonacci (5T-1X tại vị trí Fib)",
+          "Gần Hỗ Trợ (7 → 5)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T01:41:22.514Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668843",
+        "prediction": "Xỉu",
+        "confidence": 73,
+        "patterns": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Bẻ Cầu (4 phiên Tài)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu Đôi Bệt (2 cặp)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Biến động ngắn hạn mạnh",
+          "Đỉnh Sóng (4 > avg 2.3 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:40:22.495Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668842",
+        "prediction": "Tài",
+        "confidence": 52,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Biến động ngắn hạn mạnh",
+          "Fibonacci (6T-0X tại vị trí Fib)",
+          "Momentum Tăng (12.0 vs 9.8)",
+          "Gần Kháng Cự (14 → 16)",
+          "Fibonacci Cực (7/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T01:39:23.164Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668841",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)"
+        ],
+        "timestamp": "2025-12-11T01:38:22.394Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668840",
+        "prediction": "Xỉu",
+        "confidence": 75,
+        "patterns": [
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Gần Kháng Cự (14 → 16)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T01:37:22.307Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668839",
+        "prediction": "Xỉu",
+        "confidence": 77,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Fibonacci (5T-1X tại vị trí Fib)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T01:36:22.250Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668838",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T01:35:22.319Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668837",
+        "prediction": "Tài",
+        "confidence": 74,
+        "patterns": [
+          "🔄 Auto-Reversal (Xỉu → Tài)",
+          "Cầu Đảo 1-1 (4 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Sóng Mở Rộng (1-1-1-2 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T01:33:52.683Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668836",
+        "prediction": "Xỉu",
+        "confidence": 75,
+        "patterns": [
+          "🔄 Auto-Reversal (Tài → Xỉu)",
+          "Biểu Đồ Đường (2 dây xuống → Bẻ Tài)",
+          "Sóng Mở Rộng (1-1-2-3 → Bẻ Tài)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T01:32:57.233Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668825",
+        "prediction": "Xỉu",
+        "confidence": 52,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu 1-2-3",
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Tổng TB thấp (9.3)",
+          "Biến động ngắn hạn mạnh",
+          "Gần Hỗ Trợ (5 → 5)",
+          "Sóng Thu Hẹp (3-2-2-2 → Theo Xỉu)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)"
+        ],
+        "timestamp": "2025-12-11T01:21:24.233Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668824",
+        "prediction": "Tài",
+        "confidence": 64,
+        "patterns": [
+          "Cầu 2-2 (4 cặp)",
+          "Cầu Nhảy Cóc Đảo",
+          "Cầu 2-1-2",
+          "Cầu 2-1-1-2",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Cầu Đôi Đảo (7 cặp)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:20:24.168Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668823",
+        "prediction": "Tài",
+        "confidence": 77,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Cầu Nhảy Cóc Đảo",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Sóng Mở Rộng (1-2-2-2 → Bẻ Tài)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-11T01:18:54.092Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668822",
+        "prediction": "Xỉu",
+        "confidence": 50,
+        "patterns": [
+          "🔄 Auto-Reversal (Tài → Xỉu)",
+          "Cầu 2-2 (4 cặp)",
+          "Cầu 2-1-2",
+          "Cầu 2-1-1-2",
+          "Cầu Đôi Đảo (6 cặp)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Gần Kháng Cự (15 → 17)",
+          "Sóng Mở Rộng (2-2-2-6 → Bẻ Xỉu)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-11T01:17:54.066Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668821",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "🔄 Auto-Reversal (Tài → Xỉu)",
+          "Cầu 1-2-1",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Sóng Mở Rộng (1-2-2-6 → Bẻ Xỉu)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "EMA Crossover (EMA5:11.3 vs MA10:9.5)"
+        ],
+        "timestamp": "2025-12-11T01:16:53.999Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668820",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "🔄 Auto-Reversal (Tài → Xỉu)",
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Cầu 2-1-2",
+          "Cầu 2-1-1-2",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Cầu Đôi Đảo (5 cặp)",
+          "Xu Hướng Cực (2T-8X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Gần Hỗ Trợ (6 → 4)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)"
+        ],
+        "timestamp": "2025-12-11T01:15:54.449Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668819",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Cầu 3-2-1",
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Tổng TB thấp (9.5)",
+          "Biến động ngắn hạn mạnh",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)"
+        ],
+        "timestamp": "2025-12-11T01:14:54.403Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668818",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Cầu Đôi Đảo (4 cặp)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Biến động ngắn hạn mạnh",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)"
+        ],
+        "timestamp": "2025-12-11T01:13:53.831Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668817",
+        "prediction": "Xỉu",
+        "confidence": 79,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Tổng TB thấp (9.4)",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)"
+        ],
+        "timestamp": "2025-12-11T01:12:53.784Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668816",
+        "prediction": "Tài",
+        "confidence": 78,
+        "patterns": [
+          "Cầu Bệt 6 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Xỉu)",
+          "Cầu Bẻ Cầu (6 phiên Xỉu)",
+          "Cầu Chu Kỳ 2",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu 5-5 (1 bộ năm)",
+          "Cầu Đôi Bệt (3 cặp)",
+          "Cầu Rồng 6 phiên (Bẻ mạnh)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Tổng TB thấp (9.4)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Momentum Giảm (8.6 vs 10.8)",
+          "Đỉnh Sóng (6 > avg 2.7 → Bẻ)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)"
+        ],
+        "timestamp": "2025-12-11T01:11:53.875Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668815",
+        "prediction": "Xỉu",
+        "confidence": 67,
+        "patterns": [
+          "Cầu Bệt 5 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Xỉu)",
+          "Cầu Bẻ Cầu (5 phiên Xỉu)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu 5-5 (1 bộ năm)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Cầu Đôi Bệt (2 cặp)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Tổng TB thấp (9.5)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Momentum Giảm (8.2 vs 10.8)",
+          "Đỉnh Sóng (5 > avg 2.3 → Bẻ)",
+          "Fibonacci Cực (6/7 → Bẻ Tài)",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)"
+        ],
+        "timestamp": "2025-12-11T01:10:23.670Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668814",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Bẻ Cầu (4 phiên Xỉu)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu Đôi Bệt (2 cặp)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Tổng TB thấp (9.3)",
+          "Cực Điểm Thấp (4 phiên <= 7)",
+          "Đỉnh Sóng (4 > avg 2.0 → Bẻ)",
+          "EMA Crossover (EMA5:10.9 vs MA10:8.9)",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)",
+          "Biến Động Cao (Avg:4.1, Max:10 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:09:24.141Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668813",
+        "prediction": "Xỉu",
+        "confidence": 53,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (2 dây ngang → Bẻ Xỉu)",
+          "Cực Điểm Thấp (4 phiên <= 7)",
+          "Biến động ngắn hạn mạnh",
+          "Fibonacci (0T-6X tại vị trí Fib)",
+          "Gần Hỗ Trợ (6 → 4)",
+          "Đỉnh Sóng (3 > avg 1.7 → Bẻ)",
+          "Fibonacci Cực (6/7 → Bẻ Tài)",
+          "Áp Lực Cực Thấp (4/15 phiên <= 7)",
+          "Biến Động Cao (Avg:4.7, Max:10 → Bẻ)"
+        ],
+        "timestamp": "2025-12-11T01:08:58.698Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668710",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Xu Hướng Cực (8T-2X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Gần Kháng Cự (15 → 16)"
+        ],
+        "timestamp": "2025-12-10T23:18:23.397Z",
+        "verified": false,
+        "actual": null,
+        "isCorrect": null
+      },
+      {
+        "phien": "1668709",
+        "prediction": "Tài",
+        "confidence": 73,
+        "patterns": [
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Xu Hướng Cực (8T-2X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-10T23:17:23.911Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668708",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Fibonacci (5T-1X tại vị trí Fib)",
+          "Gần Hỗ Trợ (6 → 6)",
+          "Fibonacci Cực (6/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-10T23:16:23.291Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668707",
+        "prediction": "Xỉu",
+        "confidence": 75,
+        "patterns": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Bẻ Cầu (4 phiên Tài)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu Đôi Bệt (2 cặp)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Biến động ngắn hạn mạnh",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)",
+          "Markov Chain (Tài → Tài: 63%)"
+        ],
+        "timestamp": "2025-12-10T23:15:23.784Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668706",
+        "prediction": "Tài",
+        "confidence": 50,
+        "patterns": [
+          "🔄 Auto-Reversal (Xỉu → Tài)",
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Biến động ngắn hạn mạnh",
+          "Markov Chain (Tài → Tài: 63%)"
+        ],
+        "timestamp": "2025-12-10T23:14:23.223Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668705",
+        "prediction": "Xỉu",
+        "confidence": 76,
+        "patterns": [
+          "🔄 Auto-Reversal (Tài → Xỉu)",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Markov Chain (Tài → Tài: 63%)"
+        ],
+        "timestamp": "2025-12-10T23:13:23.175Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668704",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "🔄 Auto-Reversal (Tài → Xỉu)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Đảo Xu Hướng (4T-1X → 1T-4X)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Momentum Tăng (12.0 vs 9.8)",
+          "Sóng Mở Rộng (1-1-3-3 → Bẻ Xỉu)",
+          "Markov Chain (Tài → Tài: 62%)",
+          "EMA Crossover (EMA5:12.5 vs MA10:10.9)"
+        ],
+        "timestamp": "2025-12-10T23:11:53.618Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668703",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu 1-2-2-1",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (2 dây xuống → Bẻ Tài)",
+          "Momentum Tăng (11.8 vs 9.6)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-10T23:10:53.033Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668702",
+        "prediction": "Tài",
+        "confidence": 80,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Biến động ngắn hạn mạnh",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)",
+          "Markov Chain (Tài → Tài: 62%)"
+        ],
+        "timestamp": "2025-12-10T23:09:53.011Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668701",
+        "prediction": "Xỉu",
+        "confidence": 79,
+        "patterns": [
+          "Cầu 2-2 (2 cặp)",
+          "Cầu Đôi Đảo (2 cặp)",
+          "Biểu Đồ Đường (2 dây lên → Bẻ Tài)",
+          "Biến động ngắn hạn mạnh",
+          "Gần Kháng Cự (15 → 16)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T23:08:52.931Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668700",
+        "prediction": "Tài",
+        "confidence": 77,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Xỉu)",
+          "Biểu Đồ Đường (2 dây lên → Bẻ Xỉu)",
+          "EMA Crossover (EMA5:11.6 vs MA10:9.8)"
+        ],
+        "timestamp": "2025-12-10T23:07:52.898Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668699",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T23:06:52.885Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668698",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Biểu Đồ Đường (2 dây xuống → Bẻ Xỉu)",
+          "Gần Hỗ Trợ (6 → 6)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T23:05:53.343Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668697",
+        "prediction": "Xỉu",
+        "confidence": 80,
+        "patterns": [
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Gần Hỗ Trợ (8 → 7)",
+          "EMA Crossover (EMA5:8.8 vs MA10:10.6)"
+        ],
+        "timestamp": "2025-12-10T23:04:52.779Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668696",
+        "prediction": "Tài",
+        "confidence": 68,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Đảo Xu Hướng (1T-4X → 4T-1X)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Momentum Giảm (9.6 vs 12.2)",
+          "Gần Kháng Cự (16 → 16)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "EMA Crossover (EMA5:9.3 vs MA10:10.9)"
+        ],
+        "timestamp": "2025-12-10T23:03:23.256Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668695",
+        "prediction": "Xỉu",
+        "confidence": 79,
+        "patterns": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Bẻ Cầu (4 phiên Xỉu)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Cầu Đôi Bệt (3 cặp)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Biến động ngắn hạn mạnh",
+          "Momentum Giảm (9.0 vs 11.6)",
+          "Gần Hỗ Trợ (9 → 7)",
+          "Đỉnh Sóng (4 > avg 2.3 → Bẻ)"
+        ],
+        "timestamp": "2025-12-10T23:02:23.204Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668694",
+        "prediction": "Xỉu",
+        "confidence": 81,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu 1-2-3",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Biến động ngắn hạn mạnh",
+          "Gần Hỗ Trợ (9 → 7)"
+        ],
+        "timestamp": "2025-12-10T23:01:22.663Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668693",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu 2-2 (2 cặp)",
+          "Cầu 2-1-2",
+          "Cầu Đôi Đảo (2 cặp)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Gần Hỗ Trợ (7 → 7)",
+          "Fibonacci Cực (6/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T23:00:23.172Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668692",
+        "prediction": "Xỉu",
+        "confidence": 80,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Biểu Đồ Đường (2 dây xuống → Bẻ Tài)",
+          "Fibonacci (5T-1X tại vị trí Fib)",
+          "Gần Hỗ Trợ (7 → 7)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-10T22:59:23.092Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668691",
+        "prediction": "Tài",
+        "confidence": 72,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Tổng TB cao (11.5)"
+        ],
+        "timestamp": "2025-12-10T22:58:23.036Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668690",
+        "prediction": "Tài",
+        "confidence": 69,
+        "patterns": [
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Gần Kháng Cự (16 → 16)"
+        ],
+        "timestamp": "2025-12-10T22:57:23.012Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668689",
+        "prediction": "Tài",
+        "confidence": 77,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Fibonacci (5T-1X tại vị trí Fib)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-10T22:56:22.420Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668688",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Tài)",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Sóng Thu Hẹp (2-1-1-1 → Theo Tài)"
+        ],
+        "timestamp": "2025-12-10T22:54:52.348Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668687",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "🔄 Auto-Reversal (Xỉu → Tài)",
+          "Cầu Đảo 1-1 (5 phiên)",
+          "Cầu Nhảy Cóc",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Cầu Ziczac (3 lần)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-10T22:53:52.323Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668686",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "🔄 Auto-Reversal (Tài → Xỉu)",
+          "Cầu Đảo 1-1 (4 phiên)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Sóng Mở Rộng (1-1-1-2 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T22:52:57.289Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668685",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Tài)",
+          "Cầu Chu Kỳ 3",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T22:51:56.901Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668684",
+        "prediction": "Xỉu",
+        "confidence": 82,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Cầu Chu Kỳ 3",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T22:50:56.839Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668683",
+        "prediction": "Tài",
+        "confidence": 66,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Cầu Chu Kỳ 3",
+          "Biểu Đồ Đường (3 dây cùng xuống → Theo Tài)",
+          "Momentum Tăng (11.8 vs 9.8)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-10T22:49:56.809Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668682",
+        "prediction": "Tài",
+        "confidence": 78,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 7 (5 Tài)",
+          "Biểu Đồ Đường (2 dây lên → Bẻ Xỉu)",
+          "Gần Kháng Cự (15 → 15)"
+        ],
+        "timestamp": "2025-12-10T22:48:26.751Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668681",
+        "prediction": "Xỉu",
+        "confidence": 79,
+        "patterns": [
+          "Cầu 1-2-1",
+          "Cầu Gấp 3 (mỗi 3 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Gần Hỗ Trợ (7 → 6)"
+        ],
+        "timestamp": "2025-12-10T22:47:26.880Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668680",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Tài)",
+          "Đảo Xu Hướng (4T-1X → 0T-5X)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Momentum Tăng (11.6 vs 9.0)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-10T22:47:02.271Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668676",
+        "prediction": "Xỉu",
+        "confidence": 70,
+        "patterns": [
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Fibonacci (1T-5X tại vị trí Fib)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T22:42:18.367Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668675",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 7 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Xỉu)",
+          "Cầu Bẻ Cầu (7 phiên Xỉu)",
+          "Cầu Chu Kỳ 2",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu 5-5 (1 bộ năm)",
+          "Cầu Đôi Bệt (3 cặp)",
+          "Cầu Rồng 7 phiên (Bẻ mạnh)",
+          "Biểu Đồ Đường (2 dây xuống → Bẻ Xỉu)",
+          "Cầu Liên Tục 7 (Streak dài → Bẻ mạnh)",
+          "Gần Hỗ Trợ (7 → 6)",
+          "Đỉnh Sóng (7 > avg 4.0 → Bẻ)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T22:41:17.783Z",
+        "verified": true,
+        "actual": "Tài",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668674",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 6 phiên",
+          "Cầu 3-3 (3 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Xỉu)",
+          "Cầu Bẻ Cầu (6 phiên Xỉu)",
+          "Cầu Chu Kỳ 2",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu 5-5 (1 bộ năm)",
+          "Cầu Đôi Bệt (4 cặp)",
+          "Cầu Rồng 6 phiên (Bẻ mạnh)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Xỉu)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Sóng Thu Hẹp (6-3-2-1 → Theo Xỉu)"
+        ],
+        "timestamp": "2025-12-10T22:40:18.333Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668673",
+        "prediction": "Tài",
+        "confidence": 81,
+        "patterns": [
+          "Cầu Bệt 5 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhảy Cóc",
+          "Cầu Nhịp Nghiêng 5 (5 Xỉu)",
+          "Cầu Bẻ Cầu (5 phiên Xỉu)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu 5-5 (1 bộ năm)",
+          "Cầu Gấp 4 (mỗi 4 phiên)",
+          "Cầu Đôi Bệt (2 cặp)",
+          "Biểu Đồ Đường (Biên độ max 6-1 - Bẻ)",
+          "Sóng Thu Hẹp (5-3-2-2 → Theo Xỉu)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)",
+          "MA Đảo Chiều (Drift: -2.5 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T22:39:18.259Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668672",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 4 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu Nhịp Nghiêng 5 (4 Xỉu)",
+          "Cầu Bẻ Cầu (4 phiên Xỉu)",
+          "Cầu 4-4 (1 bộ bốn)",
+          "Cầu Đôi Bệt (3 cặp)",
+          "Biểu Đồ Đường (2 lên 1 xuống → Xỉu)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Biến động ngắn hạn mạnh",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T22:37:47.664Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668671",
+        "prediction": "Tài",
+        "confidence": 66,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (2 bộ ba)",
+          "Cầu 3 Ván 1 (3X-1T)",
+          "Biểu Đồ Đường (3 dây cùng lên → Theo Xỉu)",
+          "Biến động ngắn hạn mạnh",
+          "Momentum Giảm (9.2 vs 11.4)",
+          "Fibonacci Cực (5/7 → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T22:36:48.178Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668670",
+        "prediction": "Tài",
+        "confidence": 85,
+        "patterns": [
+          "Cầu 2-2 (2 cặp)",
+          "Cầu Đôi Đảo (2 cặp)",
+          "Biểu Đồ Đường (1 lên 2 xuống → Tài)",
+          "Dây Gãy (2 xuống 1 lên → Tài)",
+          "Gần Hỗ Trợ (6 → 4)",
+          "Fibonacci Cực (5/7 → Bẻ Xỉu)"
+        ],
+        "timestamp": "2025-12-10T22:35:47.578Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": false
+      },
+      {
+        "phien": "1668669",
+        "prediction": "Xỉu",
+        "confidence": 81,
+        "patterns": [
+          "Cầu 1-2-2-1",
+          "Biểu Đồ Đường (2 dây xuống → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T22:34:49.013Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668669",
+        "prediction": "Xỉu",
+        "confidence": 83,
+        "patterns": [
+          "Cầu 1-2-2-1",
+          "Biểu Đồ Đường (2 dây xuống → Bẻ Tài)"
+        ],
+        "timestamp": "2025-12-10T22:34:47.542Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      },
+      {
+        "phien": "1668668",
+        "prediction": "Xỉu",
+        "confidence": 85,
+        "patterns": [
+          "Cầu Bệt 3 phiên",
+          "Cầu 3-3 (1 bộ ba)",
+          "Cầu 1-2-3",
+          "Cầu Nhịp Nghiêng 7 (5 Tài)",
+          "Cầu 3 Ván 1 (3T-1X)",
+          "Xu Hướng Cực (8T-2X trong 10 phiên)",
+          "Biểu Đồ Đường (2 xúc xắc giống - Bẻ Tài)",
+          "Dây Gãy (2 lên 1 xuống → Xỉu)",
+          "Tổng TB cao (11.9)",
+          "Fibonacci (5T-1X tại vị trí Fib)",
+          "Momentum Giảm (10.2 vs 12.8)",
+          "Fibonacci Cực (6/7 → Bẻ Xỉu)",
+          "EMA Crossover (EMA5:9.5 vs MA10:11.5)",
+          "Áp Lực Cực Cao (4/15 phiên >= 14)"
+        ],
+        "timestamp": "2025-12-10T22:34:23.241Z",
+        "verified": true,
+        "actual": "Xỉu",
+        "isCorrect": true
+      }
+    ],
+    "patternStats": {
+      "cau_bet": {
+        "total": 43,
+        "correct": 24,
+        "accuracy": 0.5581395348837209,
+        "recentResults": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:49:38.414Z"
+      },
+      "cau_dao_11": {
+        "total": 14,
+        "correct": 8,
+        "accuracy": 0.5714285714285714,
+        "recentResults": [
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:43:59.359Z"
+      },
+      "cau_22": {
+        "total": 9,
+        "correct": 2,
+        "accuracy": 0.2222222222222222,
+        "recentResults": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "lastAdjustment": "2025-12-11T04:47:08.372Z"
+      },
+      "cau_33": {
+        "total": 43,
+        "correct": 24,
+        "accuracy": 0.5581395348837209,
+        "recentResults": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:49:38.414Z"
+      },
+      "cau_121": {
+        "total": 15,
+        "correct": 7,
+        "accuracy": 0.4666666666666667,
+        "recentResults": [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:46:08.858Z"
+      },
+      "cau_123": {
+        "total": 6,
+        "correct": 4,
+        "accuracy": 0.6666666666666666,
+        "recentResults": [
+          1,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:48:08.355Z"
+      },
+      "cau_321": {
+        "total": 3,
+        "correct": 1,
+        "accuracy": 0.3333333333333333,
+        "recentResults": [
+          0,
+          0,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:38:59.668Z"
+      },
+      "cau_nhay_coc": {
+        "total": 41,
+        "correct": 21,
+        "accuracy": 0.5121951219512195,
+        "recentResults": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "lastAdjustment": "2025-12-11T04:42:59.314Z"
+      },
+      "cau_nhip_nghieng": {
+        "total": 85,
+        "correct": 46,
+        "accuracy": 0.5411764705882353,
+        "recentResults": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:49:38.414Z"
+      },
+      "cau_3van1": {
+        "total": 19,
+        "correct": 10,
+        "accuracy": 0.5263157894736842,
+        "recentResults": [
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:48:08.355Z"
+      },
+      "cau_be_cau": {
+        "total": 24,
+        "correct": 14,
+        "accuracy": 0.5833333333333334,
+        "recentResults": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:49:38.414Z"
+      },
+      "cau_chu_ky": {
+        "total": 20,
+        "correct": 6,
+        "accuracy": 0.3,
+        "recentResults": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lastAdjustment": "2025-12-11T03:44:08.562Z"
+      },
+      "distribution": {
+        "total": 17,
+        "correct": 12,
+        "accuracy": 0.7058823529411765,
+        "recentResults": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:31:29.292Z"
+      },
+      "dice_pattern": {
+        "total": 21,
+        "correct": 7,
+        "accuracy": 0.3333333333333333,
+        "recentResults": [
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "lastAdjustment": "2025-12-11T04:26:58.601Z"
+      },
+      "sum_trend": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.5,
+        "recentResults": [],
+        "lastAdjustment": null
+      },
+      "edge_cases": {
+        "total": 5,
+        "correct": 2,
+        "accuracy": 0.4,
+        "recentResults": [
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "lastAdjustment": "2025-12-11T04:16:28.096Z"
+      },
+      "momentum": {
+        "total": 30,
+        "correct": 15,
+        "accuracy": 0.5,
+        "recentResults": [
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:35:28.981Z"
+      },
+      "cau_tu_nhien": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.5,
+        "recentResults": [],
+        "lastAdjustment": null
+      },
+      "dice_trend_line": {
+        "total": 131,
+        "correct": 67,
+        "accuracy": 0.5114503816793893,
+        "recentResults": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:48:08.355Z"
+      },
+      "break_pattern": {
+        "total": 5,
+        "correct": 1,
+        "accuracy": 0.2,
+        "recentResults": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lastAdjustment": "2025-12-11T03:44:08.562Z"
+      },
+      "fibonacci": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.5,
+        "recentResults": [],
+        "lastAdjustment": null
+      },
+      "resistance_support": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.5,
+        "recentResults": [],
+        "lastAdjustment": null
+      },
+      "wave": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.5,
+        "recentResults": [],
+        "lastAdjustment": null
+      },
+      "golden_ratio": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.5,
+        "recentResults": [],
+        "lastAdjustment": null
+      },
+      "day_gay": {
+        "total": 62,
+        "correct": 32,
+        "accuracy": 0.5161290322580645,
+        "recentResults": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:48:08.355Z"
+      },
+      "cau_44": {
+        "total": 24,
+        "correct": 14,
+        "accuracy": 0.5833333333333334,
+        "recentResults": [
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:49:38.414Z"
+      },
+      "cau_55": {
+        "total": 12,
+        "correct": 6,
+        "accuracy": 0.5,
+        "recentResults": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:35:28.981Z"
+      },
+      "cau_212": {
+        "total": 8,
+        "correct": 2,
+        "accuracy": 0.25,
+        "recentResults": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "lastAdjustment": "2025-12-11T04:47:08.373Z"
+      },
+      "cau_1221": {
+        "total": 4,
+        "correct": 2,
+        "accuracy": 0.5,
+        "recentResults": [
+          1,
+          1,
+          0,
+          0
+        ],
+        "lastAdjustment": "2025-12-11T04:41:59.293Z"
+      },
+      "cau_2112": {
+        "total": 4,
+        "correct": 2,
+        "accuracy": 0.5,
+        "recentResults": [
+          0,
+          1,
+          0,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:39:59.183Z"
+      },
+      "cau_gap": {
+        "total": 46,
+        "correct": 18,
+        "accuracy": 0.391304347826087,
+        "recentResults": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:49:38.414Z"
+      },
+      "cau_ziczac": {
+        "total": 8,
+        "correct": 4,
+        "accuracy": 0.5,
+        "recentResults": [
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "lastAdjustment": "2025-12-11T03:48:38.754Z"
+      },
+      "cau_doi": {
+        "total": 40,
+        "correct": 18,
+        "accuracy": 0.45,
+        "recentResults": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        "lastAdjustment": "2025-12-11T04:49:38.414Z"
+      },
+      "cau_rong": {
+        "total": 7,
+        "correct": 2,
+        "accuracy": 0.2857142857142857,
+        "recentResults": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "lastAdjustment": "2025-12-11T03:44:08.562Z"
+      },
+      "smart_bet": {
+        "total": 35,
+        "correct": 20,
+        "accuracy": 0.5714285714285714,
+        "recentResults": [
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "lastAdjustment": "2025-12-11T04:40:59.236Z"
+      },
+      "markov_chain": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.5,
+        "recentResults": [],
+        "lastAdjustment": null
+      },
+      "moving_avg_drift": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.5,
+        "recentResults": [],
+        "lastAdjustment": null
+      },
+      "sum_pressure": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.5,
+        "recentResults": [],
+        "lastAdjustment": null
+      },
+      "volatility": {
+        "total": 0,
+        "correct": 0,
+        "accuracy": 0.5,
+        "recentResults": [],
+        "lastAdjustment": null
+      }
+    },
+    "totalPredictions": 140,
+    "correctPredictions": 71,
+    "patternWeights": {
+      "cau_bet": 1,
+      "cau_dao_11": 1.2155062500000002,
+      "cau_22": 0.7737809374999999,
+      "cau_33": 1,
+      "cau_121": 0.6634204312890623,
+      "cau_123": 1.05,
+      "cau_321": 1,
+      "cau_nhay_coc": 1.0860655154891006,
+      "cau_nhip_nghieng": 0.9631491936532687,
+      "cau_3van1": 1,
+      "cau_be_cau": 1.05,
+      "cau_chu_ky": 0.6983372960937497,
+      "distribution": 1.628894626777442,
+      "dice_pattern": 0.48767497911552943,
+      "sum_trend": 1,
+      "edge_cases": 1,
+      "momentum": 0.95,
+      "cau_tu_nhien": 1,
+      "dice_trend_line": 1.1121781713396077,
+      "break_pattern": 0.95,
+      "fibonacci": 1,
+      "resistance_support": 1,
+      "wave": 1,
+      "golden_ratio": 1,
+      "day_gay": 0.8488333480100535,
+      "cau_44": 1.05,
+      "cau_55": 0.9025,
+      "cau_212": 0.8145062499999999,
+      "cau_1221": 1,
+      "cau_2112": 1,
+      "cau_gap": 0.30735686772502346,
+      "cau_ziczac": 1.05,
+      "cau_doi": 0.41812033521917696,
+      "cau_rong": 0.9025,
+      "smart_bet": 1.15184411015625,
+      "markov_chain": 1.2,
+      "moving_avg_drift": 1.1,
+      "sum_pressure": 1.1,
+      "volatility": 1
+    },
+    "lastUpdate": "2025-12-11T04:49:38.414Z",
+    "streakAnalysis": {
+      "wins": 71,
+      "losses": 67,
+      "currentStreak": 2,
+      "bestStreak": 8,
+      "worstStreak": -5
+    },
+    "adaptiveThresholds": {},
+    "recentAccuracy": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "reversalState": {
+      "active": false,
+      "activatedAt": "2025-12-11T04:42:59.316Z",
+      "consecutiveLosses": 0,
+      "reversalCount": 8,
+      "lastReversalResult": "success"
+    },
+    "transitionMatrix": {
+      "Tài->Tài": 17.250034274818436,
+      "Tài->Xỉu": 7.376271815645713,
+      "Xỉu->Tài": 6.735327300645111,
+      "Xỉu->Xỉu": 17.6383473714453
+    }
+  }
+}
